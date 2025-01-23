@@ -1,0 +1,191 @@
+
+header{
+    height: 60px;
+    width: 100%;
+    background: #53BCEB;
+    border-top: 5px solid #ECC12F;
+    position: fixed;
+   
+
+}
+.container{
+    display: flex;
+}
+.pic{
+    margin-left: 150px;
+    padding-top: 10px;
+    cursor: pointer;
+    
+}
+.l1{
+    margin-top: 25px;
+    margin-left: 20px;
+    cursor: pointer;
+    }
+.list:hover{
+    background-color: white;
+    color: lightblue;
+
+}
+.phonelogo {
+    margin-left: 350px;
+    margin-top: 30px;
+}
+.call p{
+    color: white;
+    margin-top: 20px;
+    
+}
+.licence p{
+    color: white;
+    margin-top: 18px;
+   margin-left: 60px;
+   font-size: 15px;
+   cursor: pointer;
+}
+.list{
+    border: none;
+    background: #53BCEB;
+    color: white;
+}
+    
+.content{
+    display: flex; 
+    justify-content: center;    
+    padding: 100px;
+    gap: 100px;
+}
+    
+.content img{
+    border: 2px solid  rgb(0, 153, 255);
+    border-radius: 20px;
+    margin: 20px;
+    cursor: pointer;
+    background-color: whitesmoke;
+}
+.imgs,p{
+    
+    margin-left: 10px;
+    margin-top: -10px;
+    color: rgb(105, 106, 107);
+   font-size: 14px;
+   font-weight: 500;
+   font-family: Arial, sans-serif;
+   
+}
+body{
+    background-image:url("https://covernest.com/blog/wp-content/uploads/2017/03/cropped-home-pag5.png");
+    background-repeat: no-repeat;
+}
+.b1{
+text-align: center;
+margin-top: -60px;
+
+}
+.btn{
+    border: 5px solid white;
+    border-radius: 10px;
+    background-color:#53BCEB; 
+    font-size: large;
+    margin: auto;
+    padding: 20px;
+    color: aliceblue;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: #499EC3;
+}
+.h1{
+    padding-top: 30px;
+    background-color:#EAEFF5 ;
+    height: 100px;
+}
+
+.h1,.h2,.h3,.h4{
+    text-align: center;
+    color: #696A6B;
+    font-family:  Arial, sans-serif;
+    font-size: 15px;
+}
+
+
+.logo{
+    display: flex;
+    background-color:#EAEFF5;
+    justify-content: center ;
+    height: 300px;
+    gap:120px;
+    
+}
+.logo,p{
+    text-align: center;
+    color: #696A6B;
+    font-size: 16px;
+    font-weight: 500;
+    padding-top: 10px;
+}
+.partnerimg,.lifeimg,.pay,.healthimg{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+    gap: 20px;
+    margin-left: 90px;
+    cursor: pointer;
+}
+.r1 img{
+    margin-left: -120px;
+}
+footer{
+    padding-top: 50px;
+    background-color: #696A6B;
+    height: 350px;
+    padding-right: 30PX;
+    
+}
+.payh1{
+    padding-top: 20px;
+    margin-left: 600px;
+    color: #A39F91;
+    
+}
+.pay{
+    border-top: 1px dashed white;
+    border-bottom: 1px dashed white;
+
+}
+    
+.paymentimg {
+    display: flex;
+    margin-top: 50px;
+    margin-left: -400px;
+    gap: 15px;
+}
+.conlogo{
+    display:flex;
+    justify-content: center;
+    gap: 15px; 
+    margin-top: 10px;
+    margin-left: 110px;
+    cursor: pointer;
+   
+}
+
+.conparagraph p{
+    color:#A39F91;
+    margin-top: 10px;
+    margin-left: 95px;
+}
+.p1 p{
+    padding-top: 10px;
+    color: #A39F91;
+    margin-left: 80px;
+    
+}
+.conlogo img:hover{
+   
+    filter: drop-shadow(1px 1px 5px #53BCEB)
+}
+
+
+
+
+
